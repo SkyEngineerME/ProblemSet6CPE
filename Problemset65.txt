@@ -1,0 +1,5 @@
+1. forget "}" Put "}" 
+2。forget to declare type of variable declare variables
+3. forget to put ";" before cout put ";"
+4. forget to open string library
+5. Use wrong operator instead use "<"
